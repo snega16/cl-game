@@ -1,1 +1,1 @@
-# cl-game
+# cl guessing game
